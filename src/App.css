@@ -12,6 +12,7 @@
   --primary-black: #000000;
   --primary-transparent-black: rgba(0,0,0,0.7);
   --primary-green: green;
+  --primary-yellow: yellow;
 }
 
 body {
@@ -96,12 +97,12 @@ nav ul li {
   color: var(--primary-orange);
   text-transform: uppercase;
 }
-.main-info h2 {
-  color: var(--primary-green);
+.main-info h3 {
+  color: var(--primary-yellow);
   
 }
-
-/*-------- TYPED TEXT ---------------*/
+/* 
+-------- TYPED TEXT ---------------
 .typed-text {
   font-size: 2rem;
   color: var(--primary-white);
@@ -115,13 +116,13 @@ nav ul li {
     font-size: 1.3rem !important;
 
   }
-}
+} */
 
 /*-------- HEADER MAIN OFFER BUTTON ---------------*/
 .btn-main-offer {
-  border: 1px solid var(--primary-red);
+  border: 2px solid var(--primary-red);
   text-transform: uppercase;
-  border-radius: 0;
+  border-radius: 10px;
   padding: 0.625rem 0.75rem 0.75rem 0.75rem;
   color: var(--primary-white);
   margin: 2rem;

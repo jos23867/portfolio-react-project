@@ -1,5 +1,5 @@
 import React from "react";
-import Typed from "react-typed";
+// import Typed from "react-typed";
 import { Link } from "react-scroll";
 
 
@@ -9,7 +9,7 @@ const Header = () => {
       <div className="main-info">
         <canvas></canvas>
         <h1>My Personal Portfolio in React</h1>
-        <h2>Jose J. Guerrero</h2>
+        <h3>Author: Jose J. Guerrero</h3>
         {/* <Typed
           className="typed-text"
           strings={["Web Design", "Web Development", "Facebook Ads SMM", "Google Ads"]}

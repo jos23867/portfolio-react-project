@@ -36,7 +36,7 @@ npm start
 
 #### Screenshot
 
-![Screenshot of the Application](docs/react-portfolio.png?raw=true "Screenshot of the Application")
+![Screenshot of the Application](https://drive.google.com/file/d/1BtHSryHyglBmL9SvWnw_WZFN_0IhUXnb/view)
 ### Link to the application running on Github Pages: [(React) Personal Portfolio](https://github.com/jos23867/portfolio-react-project)
 
 

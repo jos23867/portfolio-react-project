@@ -1,4 +1,11 @@
 
+<p align="center">
+
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Guerrero-green)
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+</p>
+
 # [(React) Personal Portfolio](https://github.com/jos23867/portfolio-react-project)
   
   
@@ -34,10 +41,8 @@ npm start
 
 ### Demonstration
 
-#### Screenshot
-
-![Screenshot of the Application](docs/react-portfolio.png?raw=true "Screenshot of the Application")
 ### Link to the application running on Github Pages: [(React) Personal Portfolio](https://github.com/jos23867/portfolio-react-project)
+[App][https://drive.google.com/file/d/1BtHSryHyglBmL9SvWnw_WZFN_0IhUXnb/view?usp=sharing](https://drive.google.com/file/d/1BtHSryHyglBmL9SvWnw_WZFN_0IhUXnb/view?usp=sharing)
 
 
 
